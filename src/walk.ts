@@ -10,8 +10,8 @@ export const walk = async <StackNode>(
     return
   }
   await Promise.all(
-    root.children.map(async (child) => {
-      await walk(child, f)
-    })
+      root.children.map(async (child) => {
+        await walk(child, f)
+      })
   )
 }
