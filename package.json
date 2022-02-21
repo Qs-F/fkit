@@ -1,5 +1,5 @@
 {
-  "name": "fkit",
+  "name": "@qs-f/fkit",
   "version": "0.1.0",
   "main": "dist/index.html",
   "repository": "git@github.com:Qs-F/fkit.git",
@@ -21,18 +21,6 @@
     "test": "run-p lint"
   },
   "inline": true,
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
   "devDependencies": {
     "@figma/plugin-typings": "1.42.1",
     "@types/node": "16.11.24",
