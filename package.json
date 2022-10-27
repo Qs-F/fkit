@@ -26,7 +26,7 @@
     "@figma/plugin-typings": "1.53.0",
     "@types/node": "16.11.66",
     "@types/react": "18.0.21",
-    "@types/react-dom": "18.0.6",
+    "@types/react-dom": "18.0.8",
     "@types/react-router-dom": "5.3.3",
     "eslint": "8.25.0",
     "npm-run-all": "4.1.5",
