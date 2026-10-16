@@ -188,10 +188,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@figma/plugin-typings@1.55.1":
-  version "1.55.1"
-  resolved "https://registry.yarnpkg.com/@figma/plugin-typings/-/plugin-typings-1.55.1.tgz#b974e929c2d1bdf051104ec89701b25c8ac2bcd7"
-  integrity sha512-gNyAFMA83oNJ8X4xrMjs49CCPwfRRdNepvZUx4gxS5/GBnZqV+rhEkM9crgJrynrE1VgxILLjQIPgUxxSNBWJQ==
+"@figma/plugin-typings@1.142.0":
+  version "1.142.0"
+  resolved "https://registry.yarnpkg.com/@figma/plugin-typings/-/plugin-typings-1.142.0.tgz#985177066e9aeb4e64e9c3632d552ea7630c023a"
+  integrity sha512-Loa9P4bUZi/pQejic8OYQSU4Zz9izJdIiDUkkKddq5Bfc5JPRV6pCeg3C8owovbX9lKshaFym86PlMhKZgLeBw==
 
 "@humanwhocodes/config-array@^0.11.6":
   version "0.11.7"
